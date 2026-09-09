@@ -8,11 +8,12 @@ Maintained by the team at [Arca](https://www.arca.inc) (we build an agentic plat
 
 | Tool | What it does | Link |
 | --- | --- | --- |
-| FDA Warning Letter Search | Full-text search across FDA warning letters | https://www.arca.inc |
-| FDA Recall Search | Search FDA recall records | https://www.arca.inc |
-| CRL Search | Search Complete Response Letters | https://www.arca.inc |
-| 510(k) Search | Search FDA 510(k) premarket notifications | https://www.arca.inc |
-| UDI Lookup | Look up Unique Device Identifiers | https://www.arca.inc |
+| FDA Warning Letter Search | Full-text search across FDA warning letters | https://www.arca.inc/tools/warning-letter-search |
+| FDA Recall Search | Search FDA recall records | https://www.arca.inc/tools/recall-search |
+| CRL Search | Search Complete Response Letters | https://www.arca.inc/tools/crl-search |
+| 510(k) Search | Search FDA 510(k) premarket notifications | https://www.arca.inc/tools/510k-search |
+| FDA Inspection Search | Search FDA inspection records | https://www.arca.inc/tools/inspection-search |
+| UDI Lookup | Look up Unique Device Identifiers | https://www.arca.inc/tools/udi-lookup |
 
 ## FDA guidance & primary sources
 
